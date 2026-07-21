@@ -1,5 +1,7 @@
 # Navkamakhya Shipping Services — Website
 
+https://cookienut.github.io/navkamakhya/
+
 A static, no-build website for **Navkamakhya Shipping Services Pvt. Ltd.**, ready to deploy on GitHub Pages.
 
 ## Structure
